@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="CodePicker">
+    <output-path>$PROJECT_DIR$/out/artifacts/CodePicker</output-path>
+    <root id="root">
+      <element id="file-copy" path="$PROJECT_DIR$/pom.xml" />
+    </root>
+  </artifact>
+</component>
